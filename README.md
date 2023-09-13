@@ -35,7 +35,6 @@ Chennai, with the highest number of road accident-related fatalities, underscore
 
 ### 1. Congestion Hot-spots
 Clusters of data reveal consistent warning alerts at "Roundabouts" and near "Highway Exits". High speeds on the national highway indicate issues with exit conditions. Identifying these areas allows for targeted road safety improvement efforts.
-![Congestion Hot-spots](Plots/Cluster of Alerts.png)
 
 ### 2. By Hour
 Alerts peak during morning (6-8 AM) and evening (4-6 PM) rush hours, correlating with high traffic volumes, congested roads, and heightened driver stress. Recognizing this temporal pattern is crucial for devising specific road safety strategies.
