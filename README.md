@@ -1,6 +1,6 @@
 # Enhancing Road Safety in Chennai: Insights and Causes from ADAS Alerts Analysis
 
-**Students:** Rohan Gore, Yash Jadhav, Ayush Bhalerao  
+**Students:** Yash Jadhav, Rohan Gore,  Ayush Bhalerao  
 **College Guide:** Ms. Kalyani Ghuge  
 **Date of Submission:** 10th September 2023
 
